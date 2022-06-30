@@ -10,3 +10,8 @@ Set enabled: /sys/bus/usb/devices/usb1/power/wakeup
 Check max_brightness
 Set brightness
 
+## Mousepad Right Click
+gnome-tweaks > mouse > emulation > area
+
+## Gnome Animations
+gnome-extensions > impatience
